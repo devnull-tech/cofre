@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Cofre
+Comment=Encrypted vault for your files
+Comment[es]=Almacén cifrado de ficheros
+Icon=harbour-cofre
+Exec=sailfish-qml harbour-cofre
+X-Nemo-Application-Type=silica-qt5
+
+[X-Sailjail]
+OrganizationName=es.sactu
+ApplicationName=cofre
+Permissions=Audio;Pictures;Videos;Music;Documents;Downloads;RemovableMedia;MediaIndexing

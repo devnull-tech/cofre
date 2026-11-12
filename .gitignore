@@ -1,0 +1,12 @@
+# Generado al compilar con el Sailfish SDK
+RPMS/
+.sfdk/
+documentation.list
+translations/*.qm
+
+# Python
+__pycache__/
+*.pyc
+
+# Capturas de las sesiones de prueba (las de la tienda están en capturas/tienda)
+capturas/sesion/
