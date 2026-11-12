@@ -3,9 +3,9 @@
 Encrypted vault for your files on Sailfish OS. · *Almacén cifrado de ficheros para Sailfish OS.*
 
 <p>
-<img src="publicacion/harbour/screenshot-1-folder-with-thumbnails.png" width="220">
-<img src="publicacion/harbour/screenshot-2-gallery.png" width="220">
-<img src="publicacion/harbour/screenshot-3-multiple-selection.png" width="220">
+<img src="screenshots/folder.png" width="220">
+<img src="screenshots/gallery.png" width="220">
+<img src="screenshots/selection.png" width="220">
 
 </p>
 
@@ -37,7 +37,7 @@ The core can be tested on any Linux with Python 3 and OpenSSL 3: `python3 -m uni
 - `python/cofre/`: vault, encryption (OpenSSL through ctypes), image info, temporary media copies
 - `python/cofre_bridge.py`: functions called from QML through PyOtherSide
 - `qml/`: user interface (Sailfish Silica)
-- `translations/`: translations (`tools/translate_es.py` fills in the Spanish one)
+- `translations/`: translations (English is the base language in the code)
 - `tests/`: automated tests
 
 ## Español

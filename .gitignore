@@ -8,5 +8,7 @@ translations/*.qm
 __pycache__/
 *.pyc
 
-# Capturas de las sesiones de prueba (las de la tienda están en capturas/tienda)
-capturas/sesion/
+# Material interno: no se publica en el repositorio
+capturas/
+publicacion/
+tools/
