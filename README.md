@@ -3,9 +3,10 @@
 Encrypted vault for your files on Sailfish OS. · *Almacén cifrado de ficheros para Sailfish OS.*
 
 <p>
-<img src="capturas/tienda/en/2-folder-thumbnails.png" width="200">
-<img src="capturas/tienda/en/3-gallery-photo.png" width="200">
-<img src="capturas/tienda/en/5-multiple-selection.png" width="200">
+<img src="publicacion/harbour/screenshot-1-folder-with-thumbnails.png" width="220">
+<img src="publicacion/harbour/screenshot-2-gallery.png" width="220">
+<img src="publicacion/harbour/screenshot-3-multiple-selection.png" width="220">
+
 </p>
 
 ## English
